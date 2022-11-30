@@ -1,11 +1,12 @@
-# url='http://www.google.com/blahblah'
-from input import url
+from input import indian_cities, base_url, key, air_quality_data
 import requests
 
 try:
-    r = requests.get(url, timeout=3)
-    r.raise_for_status()
-    print(r.text)
+    for metro_cities in indian_cities:
+        url = base_url + key + ' &q=' + metro_cities + '&aqi' + air_quality_data
+        r = requests.get(url, timeout=3)
+        r.raise_for_status()
+        print(r.text)
 except requests.exceptions.ConnectionError as errc:
     print("Error Connecting:", errc)
 except requests.exceptions.RequestException as err:
