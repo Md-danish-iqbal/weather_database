@@ -12,7 +12,8 @@ import pandas as pd
 logging.basicConfig(filename='./logs/logs.log',
                     filemode='a',
                     format='%(asctime)s %(levelname)s-%(message)s',
-                    datefmt='%Y-%m-%d %H:%M:%S')
+                    datefmt='%Y-%m-%d %H:%M:%S',
+                    level=logging.DEBUG)
 
 
 def weather_data_generator():
@@ -54,9 +55,9 @@ def weather_data_generator():
 
 if __name__ == "__main__":
     list_of_values = weather_data_generator()
-    print("hello mongo db")
     client = pymongo.MongoClient("mongodb://localhost:27017/")
-    print(client)
+    logging.info('connected to MongoClient successfully')
     db = client['weather_data']
     collection = db['sample_collection']
     collection.insert_many(list_of_values)
+    logging.info('data added successfully to the mongo database')
