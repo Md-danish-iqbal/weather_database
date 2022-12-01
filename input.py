@@ -1,5 +1,0 @@
-indian_cities = ["Mumbai", "Delhi", "Kolkata", "Chennai", "Bangalore", "Hyderabad", "Ahmedabad", "Pune", " Surat"]
-key = 'd85b3d4508534d8ab15141750223011'
-air_quality_data = 'no'
-base_url = 'https://api.weatherapi.com/v1/current.json?key='
-

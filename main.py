@@ -1,13 +1,8 @@
-import pymongo
-
-from input import indian_cities, base_url, key, air_quality_data
 import requests
 import logging
 import json
-import configparser
-from pymongo import MongoClient
-import pandas as pd
-
+import pymongo
+from configparser import ConfigParser
 
 logging.basicConfig(filename='./logs/logs.log',
                     filemode='a',
@@ -16,7 +11,7 @@ logging.basicConfig(filename='./logs/logs.log',
                     level=logging.DEBUG)
 
 
-def weather_data_generator():
+def weather_data_generator(indian_cities, key, air_quality_data, base_url):
     data_list = []
     for metro_cities in indian_cities:
         try:
@@ -54,7 +49,15 @@ def weather_data_generator():
 
 
 if __name__ == "__main__":
-    list_of_values = weather_data_generator()
+    file = 'config.ini'
+    config = ConfigParser()
+    config.read(file)
+    cities = json.loads(config.get('cities', 'indian_cities'))
+    key = config['api']['key']
+    air_quality_data = config['api']['air_quality_data']
+    url = config['api']['base_url']
+
+    list_of_values = weather_data_generator(cities, key, air_quality_data, url)
     client = pymongo.MongoClient("mongodb://localhost:27017/")
     logging.info('connected to MongoClient successfully')
     db = client['weather_data']

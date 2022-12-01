@@ -36,3 +36,367 @@
 2022-12-01 18:27:53 INFO-Data appended into the list successfully for Surat
 2022-12-01 18:27:53 INFO-connected to MongoClient successfully
 2022-12-01 18:27:53 INFO-data added successfully to the mongo database
+2022-12-01 18:47:30 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:31 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:31 INFO-Data collected successfully for Mumbai
+2022-12-01 18:47:31 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:47:31 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:32 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:32 INFO-Data collected successfully for Delhi
+2022-12-01 18:47:32 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:47:32 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:33 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:33 INFO-Data collected successfully for Kolkata
+2022-12-01 18:47:33 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:47:33 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:34 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:34 INFO-Data collected successfully for Chennai
+2022-12-01 18:47:34 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:47:34 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:36 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:36 INFO-Data collected successfully for Bangalore
+2022-12-01 18:47:36 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 18:47:36 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:37 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:37 INFO-Data collected successfully for Hyderabad
+2022-12-01 18:47:37 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 18:47:37 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:38 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:38 INFO-Data collected successfully for Ahmedabad
+2022-12-01 18:47:38 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 18:47:38 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:40 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:40 INFO-Data collected successfully for Pune
+2022-12-01 18:47:40 INFO-Data appended into the list successfully for Pune
+2022-12-01 18:47:40 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:47:41 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 18:47:41 INFO-Data collected successfully for Surat
+2022-12-01 18:47:41 INFO-Data appended into the list successfully for Surat
+2022-12-01 18:47:41 INFO-connected to MongoClient successfully
+2022-12-01 18:47:41 INFO-data added successfully to the mongo database
+2022-12-01 18:48:41 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:42 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:42 INFO-Data collected successfully for Mumbai
+2022-12-01 18:48:42 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:48:42 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:43 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:43 INFO-Data collected successfully for Delhi
+2022-12-01 18:48:43 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:48:43 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:44 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:44 INFO-Data collected successfully for Kolkata
+2022-12-01 18:48:44 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:48:44 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:44 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:44 INFO-Data collected successfully for Chennai
+2022-12-01 18:48:44 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:48:44 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:45 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:45 INFO-Data collected successfully for Bangalore
+2022-12-01 18:48:45 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 18:48:45 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:46 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:46 INFO-Data collected successfully for Hyderabad
+2022-12-01 18:48:46 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 18:48:46 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:47 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:47 INFO-Data collected successfully for Ahmedabad
+2022-12-01 18:48:47 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 18:48:47 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:48 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:48 INFO-Data collected successfully for Pune
+2022-12-01 18:48:48 INFO-Data appended into the list successfully for Pune
+2022-12-01 18:48:48 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:48:49 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 18:48:49 INFO-Data collected successfully for Surat
+2022-12-01 18:48:49 INFO-Data appended into the list successfully for Surat
+2022-12-01 18:48:49 INFO-connected to MongoClient successfully
+2022-12-01 18:48:49 INFO-data added successfully to the mongo database
+2022-12-01 18:49:13 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:14 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:14 INFO-Data collected successfully for Mumbai
+2022-12-01 18:49:14 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:49:14 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:15 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:15 INFO-Data collected successfully for Delhi
+2022-12-01 18:49:15 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:49:15 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:16 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:16 INFO-Data collected successfully for Kolkata
+2022-12-01 18:49:16 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:49:16 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:17 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:17 INFO-Data collected successfully for Chennai
+2022-12-01 18:49:17 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:49:17 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:18 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:18 INFO-Data collected successfully for Bangalore
+2022-12-01 18:49:18 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 18:49:18 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:18 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:18 INFO-Data collected successfully for Hyderabad
+2022-12-01 18:49:18 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 18:49:18 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:19 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:19 INFO-Data collected successfully for Ahmedabad
+2022-12-01 18:49:19 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 18:49:19 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:20 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:20 INFO-Data collected successfully for Pune
+2022-12-01 18:49:20 INFO-Data appended into the list successfully for Pune
+2022-12-01 18:49:20 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:21 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:21 INFO-Data collected successfully for Surat
+2022-12-01 18:49:21 INFO-Data appended into the list successfully for Surat
+2022-12-01 18:49:21 INFO-connected to MongoClient successfully
+2022-12-01 18:49:21 INFO-data added successfully to the mongo database
+2022-12-01 18:49:48 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:49 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:49 INFO-Data collected successfully for Mumbai
+2022-12-01 18:49:49 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:49:49 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:49 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:49 INFO-Data collected successfully for Delhi
+2022-12-01 18:49:49 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:49:49 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:50 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:50 INFO-Data collected successfully for Kolkata
+2022-12-01 18:49:50 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:49:50 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:51 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:51 INFO-Data collected successfully for Chennai
+2022-12-01 18:49:51 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:49:51 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:52 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:52 INFO-Data collected successfully for Bangalore
+2022-12-01 18:49:52 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 18:49:52 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:53 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:53 INFO-Data collected successfully for Hyderabad
+2022-12-01 18:49:53 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 18:49:53 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:54 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:54 INFO-Data collected successfully for Ahmedabad
+2022-12-01 18:49:54 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 18:49:54 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:54 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:54 INFO-Data collected successfully for Pune
+2022-12-01 18:49:54 INFO-Data appended into the list successfully for Pune
+2022-12-01 18:49:54 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:49:55 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 18:49:55 INFO-Data collected successfully for Surat
+2022-12-01 18:49:55 INFO-Data appended into the list successfully for Surat
+2022-12-01 18:49:55 INFO-connected to MongoClient successfully
+2022-12-01 18:49:55 INFO-data added successfully to the mongo database
+2022-12-01 18:52:55 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:52:56 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:52:56 INFO-Data collected successfully for Mumbai
+2022-12-01 18:52:56 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:52:56 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:52:57 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:52:57 INFO-Data collected successfully for Delhi
+2022-12-01 18:52:57 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:52:57 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:52:58 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:52:58 INFO-Data collected successfully for Kolkata
+2022-12-01 18:52:58 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:52:58 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:52:59 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:52:59 INFO-Data collected successfully for Chennai
+2022-12-01 18:52:59 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:52:59 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:01 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:02 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:02 INFO-Data collected successfully for Mumbai
+2022-12-01 18:53:02 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 18:53:02 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:03 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:03 INFO-Data collected successfully for Delhi
+2022-12-01 18:53:03 INFO-Data appended into the list successfully for Delhi
+2022-12-01 18:53:03 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:04 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:04 INFO-Data collected successfully for Kolkata
+2022-12-01 18:53:04 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 18:53:04 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:05 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:05 INFO-Data collected successfully for Chennai
+2022-12-01 18:53:05 INFO-Data appended into the list successfully for Chennai
+2022-12-01 18:53:05 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:06 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:06 INFO-Data collected successfully for Bangalore
+2022-12-01 18:53:06 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 18:53:06 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:07 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:07 INFO-Data collected successfully for Hyderabad
+2022-12-01 18:53:07 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 18:53:07 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:08 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:08 INFO-Data collected successfully for Ahmedabad
+2022-12-01 18:53:08 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 18:53:08 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:09 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:09 INFO-Data collected successfully for Pune
+2022-12-01 18:53:09 INFO-Data appended into the list successfully for Pune
+2022-12-01 18:53:09 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 18:53:10 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 18:53:10 INFO-Data collected successfully for Surat
+2022-12-01 18:53:10 INFO-Data appended into the list successfully for Surat
+2022-12-01 18:53:10 INFO-connected to MongoClient successfully
+2022-12-01 18:53:10 INFO-data added successfully to the mongo database
+2022-12-01 19:05:09 INFO-connected to MongoClient successfully
+2022-12-01 19:05:54 INFO-connected to MongoClient successfully
+2022-12-01 19:07:05 INFO-connected to MongoClient successfully
+2022-12-01 19:07:09 INFO-connected to MongoClient successfully
+2022-12-01 19:08:25 INFO-connected to MongoClient successfully
+2022-12-01 19:17:15 INFO-connected to MongoClient successfully
+2022-12-01 19:18:13 INFO-connected to MongoClient successfully
+2022-12-01 19:19:03 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:04 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:04 INFO-Data collected successfully for Mumbai
+2022-12-01 19:19:04 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 19:19:04 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:05 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:05 INFO-Data collected successfully for Delhi
+2022-12-01 19:19:05 INFO-Data appended into the list successfully for Delhi
+2022-12-01 19:19:05 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:06 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:06 INFO-Data collected successfully for Kolkata
+2022-12-01 19:19:06 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 19:19:06 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:07 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:07 INFO-Data collected successfully for Chennai
+2022-12-01 19:19:07 INFO-Data appended into the list successfully for Chennai
+2022-12-01 19:19:07 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:08 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:08 INFO-Data collected successfully for Bangalore
+2022-12-01 19:19:08 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 19:19:08 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:09 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:09 INFO-Data collected successfully for Hyderabad
+2022-12-01 19:19:09 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 19:19:09 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:11 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:11 INFO-Data collected successfully for Ahmedabad
+2022-12-01 19:19:11 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 19:19:11 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:12 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:12 INFO-Data collected successfully for Pune
+2022-12-01 19:19:12 INFO-Data appended into the list successfully for Pune
+2022-12-01 19:19:12 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:13 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:13 INFO-Data collected successfully for Surat
+2022-12-01 19:19:13 INFO-Data appended into the list successfully for Surat
+2022-12-01 19:19:13 INFO-connected to MongoClient successfully
+2022-12-01 19:19:13 INFO-data added successfully to the mongo database
+2022-12-01 19:19:40 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:40 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:40 INFO-Data collected successfully for Mumbai
+2022-12-01 19:19:40 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 19:19:40 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:41 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:41 INFO-Data collected successfully for Delhi
+2022-12-01 19:19:41 INFO-Data appended into the list successfully for Delhi
+2022-12-01 19:19:41 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:42 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:42 INFO-Data collected successfully for Kolkata
+2022-12-01 19:19:42 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 19:19:42 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:43 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:43 INFO-Data collected successfully for Chennai
+2022-12-01 19:19:43 INFO-Data appended into the list successfully for Chennai
+2022-12-01 19:19:43 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:44 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:44 INFO-Data collected successfully for Bangalore
+2022-12-01 19:19:44 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 19:19:44 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:45 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:45 INFO-Data collected successfully for Hyderabad
+2022-12-01 19:19:45 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 19:19:45 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:46 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:46 INFO-Data collected successfully for Ahmedabad
+2022-12-01 19:19:46 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 19:19:46 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:46 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:46 INFO-Data collected successfully for Pune
+2022-12-01 19:19:46 INFO-Data appended into the list successfully for Pune
+2022-12-01 19:19:46 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:19:47 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 19:19:47 INFO-Data collected successfully for Surat
+2022-12-01 19:19:47 INFO-Data appended into the list successfully for Surat
+2022-12-01 19:21:09 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:10 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:10 INFO-Data collected successfully for Mumbai
+2022-12-01 19:21:10 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 19:21:10 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:11 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:11 INFO-Data collected successfully for Delhi
+2022-12-01 19:21:11 INFO-Data appended into the list successfully for Delhi
+2022-12-01 19:21:11 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:12 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:12 INFO-Data collected successfully for Kolkata
+2022-12-01 19:21:12 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 19:21:12 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:13 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:13 INFO-Data collected successfully for Chennai
+2022-12-01 19:21:13 INFO-Data appended into the list successfully for Chennai
+2022-12-01 19:21:13 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:13 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:13 INFO-Data collected successfully for Bangalore
+2022-12-01 19:21:13 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 19:21:13 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:14 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:14 INFO-Data collected successfully for Hyderabad
+2022-12-01 19:21:14 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 19:21:14 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:15 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:15 INFO-Data collected successfully for Ahmedabad
+2022-12-01 19:21:15 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 19:21:15 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:16 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:16 INFO-Data collected successfully for Pune
+2022-12-01 19:21:16 INFO-Data appended into the list successfully for Pune
+2022-12-01 19:21:16 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:17 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:17 INFO-Data collected successfully for Surat
+2022-12-01 19:21:17 INFO-Data appended into the list successfully for Surat
+2022-12-01 19:21:17 INFO-connected to MongoClient successfully
+2022-12-01 19:21:17 INFO-data added successfully to the mongo database
+2022-12-01 19:21:21 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:21 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Mumbai&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:21 INFO-Data collected successfully for Mumbai
+2022-12-01 19:21:21 INFO-Data appended into the list successfully for Mumbai
+2022-12-01 19:21:21 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:22 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Delhi&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:22 INFO-Data collected successfully for Delhi
+2022-12-01 19:21:22 INFO-Data appended into the list successfully for Delhi
+2022-12-01 19:21:22 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:23 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Kolkata&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:23 INFO-Data collected successfully for Kolkata
+2022-12-01 19:21:23 INFO-Data appended into the list successfully for Kolkata
+2022-12-01 19:21:23 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:24 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Chennai&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:24 INFO-Data collected successfully for Chennai
+2022-12-01 19:21:24 INFO-Data appended into the list successfully for Chennai
+2022-12-01 19:21:24 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:25 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Bangalore&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:25 INFO-Data collected successfully for Bangalore
+2022-12-01 19:21:25 INFO-Data appended into the list successfully for Bangalore
+2022-12-01 19:21:25 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:26 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Hyderabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:26 INFO-Data collected successfully for Hyderabad
+2022-12-01 19:21:26 INFO-Data appended into the list successfully for Hyderabad
+2022-12-01 19:21:26 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:27 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Ahmedabad&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:27 INFO-Data collected successfully for Ahmedabad
+2022-12-01 19:21:27 INFO-Data appended into the list successfully for Ahmedabad
+2022-12-01 19:21:27 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:27 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=Pune&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:27 INFO-Data collected successfully for Pune
+2022-12-01 19:21:27 INFO-Data appended into the list successfully for Pune
+2022-12-01 19:21:27 DEBUG-Starting new HTTPS connection (1): api.weatherapi.com:443
+2022-12-01 19:21:28 DEBUG-https://api.weatherapi.com:443 "GET /v1/current.json?key=d85b3d4508534d8ab15141750223011%20&q=%20Surat&aqino HTTP/1.1" 200 None
+2022-12-01 19:21:28 INFO-Data collected successfully for Surat
+2022-12-01 19:21:28 INFO-Data appended into the list successfully for Surat
+2022-12-01 19:21:28 INFO-connected to MongoClient successfully
+2022-12-01 19:21:28 INFO-data added successfully to the mongo database
